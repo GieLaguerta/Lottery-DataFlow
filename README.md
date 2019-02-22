@@ -42,6 +42,7 @@ based on the number of winning numbers matched on your ticket.
 ##### 5.2 Recurring Lottery ( Ethereum )
    Starting of the contract, the deployer will execute a contract, then the deployer will specify the duration of the round. after the duration, it will pick a winner, the deployer has an option to check each round winner and delete a round if needed. 
 ##### 5.3 RNG Lottery ( Ethereum )
+   In RNG Lottery, the user should register first their address and a secret number known only to the user. This secret number and address will generate a commitment hash, this hash is needed in order to buy a ticket (1 ticket only). There is a deadline in  buying ticket for the lottery, after the period is over, all players must show their secret number during reveal period if not they will be automatically dropped in the list of participants. When reveal period is over an admin will draw a random pick in the lottery that will declare the winner and receive the ether prize.
    
 
 
