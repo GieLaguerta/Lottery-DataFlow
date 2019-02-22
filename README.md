@@ -37,11 +37,11 @@ or four days, a drawing is held, and a winning ticket consisting of five
 standard numbers and a Powerball number is picked. Prizes are paid out
 based on the number of winning numbers matched on your ticket.
 ## 5. Ethereum 
-## 5.1 Simple Lottery ( Ethereum )
+##### 5.1 Simple Lottery ( Ethereum )
    Start the smart contract by adding any number in duration, Once it started or deployed anyone can buy a lottery ticket. After the duration the smart contract can draw the winner among the participants.
-## 5.2 Recurring Lottery ( Ethereum )
+##### 5.2 Recurring Lottery ( Ethereum )
    Starting of the contract, the deployer will execute a contract, then the deployer will specify the duration of the round. after the duration, it will pick a winner, the deployer has an option to check each round winner and delete a round if needed. 
-## 5.2 RNG Lottery ( Ethereum )
+##### 5.3 RNG Lottery ( Ethereum )
    
 
 
